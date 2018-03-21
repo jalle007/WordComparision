@@ -1,26 +1,3 @@
-Welcome to Phonix
-======
-
-A Phonetic open source libray for .NET, no dependencies, it is pure C# code ;)
-
-Now with support for .NET Core (thanks @ysilvestrov) and VS 2017 (thanks to @spboyer)
-
-Latest Version
---------------
-
-The quickest way to get the latest release of Phonix is to add it to your project using 
-NuGet (<http://nuget.org/List/Packages/Phonix>).
-
-Implemented algorithms
-----------------
-
-Today Phonix implements the following algorithms:
-
-* Caverphone [http://en.wikipedia.org/wiki/Caverphone] - Created by David Hood, the algorithm is optimised for accents.
-* Double Metaphone [http://en.wikipedia.org/wiki/Metaphone] - Phonetic encoding algorithm is the second generation of the Metaphone algorithm
-* Metaphone [http://en.wikipedia.org/wiki/Metaphone] - Published by Lawrence Philips in 1990, for indexing words by their English pronunciation.
-* Match Rating [http://en.wikipedia.org/wiki/Match_rating_approach] - Is a phonetic algorithm developed by Western Airlines in 1977 for the indexation and comparison of homophonous names
-* Soundex [http://en.wikipedia.org/wiki/Soundex] - Is a phonetic algorithm for indexing names by sound, as pronounced in English.
 
 How to use
 ---------------
